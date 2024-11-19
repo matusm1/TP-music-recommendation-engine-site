@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odporúčací systém pre hudobné zariadenia
+title: Odporúčací systém pre hudbu
+author: Artur Lypodatenko, Matúš Mruzek, Vladyslav Tsimbota
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Vytvárame odporúčací systém hudby s využitím strojového učenia,
-  ktorý prispôsobuje odporúčania na základe výzoru používateľa.
-baseurl: "/TP-music-recommendation-engine-site/" # the subpath of your site, e.g. /blog
+  Vytvárame odporúčací systém pre hudbu s využitím strojového učenia,
+  ktorý odporúčania prispôsobuje na základe výzoru používateľa.
+baseurl: /TP-music-recommendation-engine-site/ # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -33,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Minima theme settings
+# Date format for posts (strftime)
 minima:
   date_format: "%-d. %-m. %Y"
 
