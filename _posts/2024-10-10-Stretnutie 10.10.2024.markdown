@@ -1,0 +1,37 @@
+Stretnutie 10.10.2024, 14:00
+
+Zúčastnení:
+Artur Lypodatenko, Matúš Mruzek, Vladyslav Tsimbota (spoločne ako Tím),
+Jozef Parák, Pán 2 (Peter Sumega?)
+
+- Pán 2 odprezentoval víziu projektu. Detaily (požiadavky, milestony) sa ale budú preberať s Parákom.
+  - Dá sa rozdeliť na 2 časti: 1. je o zaraďovaní pesničiek podľa žánru a nálady, 2. je rozpoznávaní veku/nálady používateľa a púšťaní takto zaradených piesní. Mala by sa pri tom využiť AI.
+  - Jedná sa len o proof-of-concept a nevyžaduje sa, aby sa riešenie dalo priamo použiť ako hotový produkt.
+  - Nie je jasná zložitosť projektu a podľa toho sa môže prispôsobiť.
+
+- Prebrali sa prvotné návrhy ako pristúpiť k riešeniu.
+  - Cez Spotify API by sa malo dať pristupovať k piesniam.
+  - Neurónové siete bude najlepšie nájsť natrénované.
+  - Určovanie nálady môže prebiehať z pevných kamier (v budove, vo výťahu), z mobilu, alebo aj z "fotobúdky," ktorá vždy spraví "čistú" fotku používateľa. Predbežne Tím preferuje mobil.
+  - Odhadovanie veku by mohlo byť rádovo po 10 rokov (10, 20, 30...).
+
+- StreamUnlimited pred 3 rokmi viedol študentov na tímovom projekte. Jednalo sa o schránku s kamerou, ktorá vie rozpoznať, aký typ listu bol do nej vhodený (list, časopis, žltý lístok...).
+
+- Vzájomne sme si ujasnili zdroje (čas, peniaze), ktoré sme ochotní poskytnúť.
+  - Tím ponúkol týždenný čas 2,5 hod./osobu podľa kreditov pridelených predmetu TP1 (2 kredity).
+  - StreamUnlimited môže preplatiť použitie/skúšanie komerčných riešení, open-source nie je nutnosťou.
+  - StreamUnlimited môže poskytnúť skúšobnú databázu piesní (na klasifikáciu?).
+  - StreamUnlimited môže vnútorne otestovať rozpoznávanie tvárí (~120 ľudí).
+
+- Predbežne je dohoda za zimný semester vypracovať analýzu projektu a implementácii sa venovať v letnom semestri.
+
+- Plán stretnutí je 1x(?) za týždeň. Ďalšie stretnutia budú online a približne raz do mesiaca aj osobne, kde sa odprezentuje zaujímavý postup. Vo všeobecnosti to je ale na dohode. Na osobné stretnutie sa dá prísť aj online.
+  - Nasledujúce stretnutie bude pravdepodobne o 1,5 týždňa osobne, s kávičkou (termín upresní Parák).
+
+- Tím si musí rozvrhnúť roly, teda kto bude vedúci, kto bude riešiť komunikáciu atď.
+- Tím musí do ďalšieho stretnutia vypracovať hrubú roadmap vypracovania projektu, podľa ktorej bude postupovať.
+
+- Tím aj Parák sa zhodli, že stránka môže existovať v zjednodušenej forme ako dokument v Google Docs. Tento návrh bude prediskutovaný s p. Antalom.
+
+
+Spísal: Matúš Mruzek, 10.10.2024

@@ -1,0 +1,30 @@
+Stretnutie 29.10.2024, 15:30
+
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Úlohy z minulého týždňa:
+- [ ] Jozef neposlal službu na určovanie moodu piesne.
+- [x] Tím poslal Jozefovi pokyny a informačné listy predmetov na Tímový projekt 1 a 2.
+- [x] Vladyslav spravil prieskum v oblasti klasifikácie hudby.
+- [ ] Na všeobcnej architektúre projektu Tím nepracoval.
+
+Obsah:
+- Vladyslav predstavil 3 rôzne prístupy na získanie údajov na klasifikáciu (resp. trénovanie klasifikátora) hudby.
+  1. Použiť scraper, ktorý údaje získa z webových stránok online služieb.
+  2. Použiť Spotify API. Spotify API ale zakazuje údaje použiť na trénovanie neurónových sietí.
+  3. Využiť verejné datasety na Kaggle.
+- Vladyslav tiež našiel články, ktoré sa zaoberajú témou projektu buď úplne (napr. odporúčanie hudby na základe nálady používateľa a hudby) alebo čiastočne (napr. ako získať náladu hudby).
+- Jozef by si prial, aby projekt dokázal odporúčať pesničky z lokálnej databázy, a teda nemusel sa spoliehať na existujúce analýzy alebo databázy 3. strán (napr. Spotify API).
+- Stručne sa spomenulo rozpoznávanie tvárí.
+- Nasledovala voľná diskusia o neurónových sietiach a ChatGPT.
+- Jozef odporučil vytvoriť harmonogram na zvyšné týždne semestra za účelom efektívnejšej práce a ľahšieho splnenia termínov.
+
+Úlohy:
+- Tím si vytvorí harmonogram pre zvyšok analýzy v tomto semestri.
+- Tím bude pokračovať v analýze... (čoho konkrétne?)
+- Tím pošle Jozefovi odkaz na web-stránku projektu.
+
+
+Spísal: Matúš Mruzek, 3.11.2024

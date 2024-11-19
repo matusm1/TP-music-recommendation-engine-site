@@ -1,0 +1,34 @@
+Stretnutie 22.10.2024, 15:30
+
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota (online)
+
+Arthur Lipodatenko sa ospravedlnil kvôli pracovným povinnostiam.
+
+
+Úlohy z minulého týždňa:
+- Tím nevypracoval plán práce na projekte.
+
+Obsah:
+- Aký je vlastne harmonogram TP, čo od Tímu vyžaduje.
+- Čo bude dobré popisovať v rámci analýzy projektu.
+  - Uviesť všetky, aj nepoužité riešenia/knižnice a prečo sa nedali použiť.
+  - K nájdeným riešeniam/knižniciam napísať ich plusy, mínusy, obmedzenia, aby sa z nich dalo neskôr prehľadne vyberať.
+- Diskusia o variantách riešení rôznych častí projektu a potenciálnych problémov.
+  - Spotify API, získavanie informácií o používateľovi z jeho prepojeného účtu
+  - Pomocou nálady a veku používateľa obmedzíme výber pesničiek napr. z 10 000 na 1000. Ktorú z nich pustiť?
+  - Púšťanie populárnych Spotify playlistov.
+  - Aký rôznorodý môže byť obraz z kamery (zachytávanie tvárí) a že bude dobré si tento problém zjednodušiť ("sterilizované prostredie")
+  - Pri rozpoznávaní použivateľov môžeme potrebovať viac neuróniek na jednotlivé podproblémy (rozpoznanie tváre, následne určenie veku, určenie nálady)
+- Jozef je len zadávateľ, s ktorým konzultujeme zadaný projekt. Nebude kontrolovať Tím, či si spĺňa požiadavky predmetu Tímový projekt (najmä vnútro-tímové organizačné veci).
+
+Úlohy:
+- Jozef pošle službu, ktorá vedela určiť mood piesne.
+- Tím má Jozefovi poslať pokyny, podľa ktorého sa riadi na Tímovom projekte. Má to slúžiť na nastavenie očakávaní.
+- Tím má do ďalšieho stretnutia:
+  - Analyzovať a rozdeliť projekt na menšie podproblémy (inými slovami, čo všetko bude treba urobiť).
+  - Navrhnúť možnú architektúru/-y projektu. (možno nie hneď do ďalšieho stretnutia?)
+  - Spraviť prieskum použiteľných riešení, služieb, knižníc, datasetov, atď. pre účel klasifikácie hudby (prípadne aj jej výberu pre používateľa).
+
+
+Spísal: Matúš Mruzek, 22.10.2024
