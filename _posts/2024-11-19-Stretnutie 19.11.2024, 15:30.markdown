@@ -1,0 +1,30 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+Stretnutie prebehlo online.
+
+
+Úlohy z minulého týždňa:
+- [ ] Tím sa nevenoval spojeniu analýzy hudby a face recognition do odporúčaní
+- [x] Tím vypracoval web stránku projektu, ale ešte ju neposlal Jozefovi.
+
+
+Obsah:
+- Jozef odkázal, že Raspberry Pi a prípadne aj web-kameru môže Tímu zabezpečiť.
+- Matúš odprezentoval Jozefovi web stránku projektu.
+- Tím odprezentoval plán práce na nasledujúce týždne. Dokončenie časti za zimný semester je plánované na 13. týždeň.
+  - Stretnutia môžeme organizovať aj počas skúškového obdobia. Pred Vianocami je to do 20.12. Môže sa konzultovať aj v iné dni, napr. štvrtky.
+- Tím môže nájdené riešenia vyskúšať a analyzovať aj prakticky.
+- Tím prebral s Jozefom informácie ohľadom hodnotenia a ukončenia predmetu na základe komunikácie s p. Antalom, najmä že Jozef je zodpovedný za hodnotenie Tímu.
+- Tím bude pravdepodobne pokračovať iba s 2 členmi. Jozef s týmto problém nemá, naplnenie účelu predmetu TP je otázne.
+- Jozef požiadal Tím o posielanie konzultovaných materiálov vopred, aby sa na ne mohol pripraviť.
+
+
+Úlohy:
+- Matúš po stretnutí pošle Jozefovi odkaz na web stránku projektu.
+- Tím pre najlepšie riešenia analýzy hudby a tváre zistí, aké majú vstupy a výstupy a ako ich pospájať do jedného celku.
+- Tím v dokumentácii vypracuje čiastočnú architektúru riešenia projektu.
+- Tím do nasledujúceho stretnutia prediskutuje s p. Antalom odpadnutie Artura z Tímu.
+
+
+Spísal: Matúš Mruzek, 19.11.2024

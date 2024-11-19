@@ -1,5 +1,3 @@
-Stretnutie 5.11.2024, 15:30
-
 Zúčastnení:
 Jozef Parák, Vladyslav Tsimbota, Matúš Mruzek (online), hosť (prítomný prvú polovicu stretnutia)
 
