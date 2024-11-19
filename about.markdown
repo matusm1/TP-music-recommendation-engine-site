@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O projekte
+permalink: /o-projekte/
 ---
 
 Vytvárame odporúčací systém hudby s využitím strojového učenia, ktorý prispôsobuje odporúčania na základe výzoru používateľa.
