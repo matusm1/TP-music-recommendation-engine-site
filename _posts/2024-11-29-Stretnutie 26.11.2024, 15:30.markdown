@@ -1,0 +1,29 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Úlohy z minulého týždňa:
+- [x] Matúš poslal Jozefovi web stránku projektu.
+- [ ] Matúš nevyskúšal riešenia pre spracovanie hudby.
+- [x] Vladyslav vyskúšal DeepFace (rozpoznávanie tváre).
+- [ ] Tím nenavrhol architektúru do dokumentácie.
+- [x] Tím prediskutoval s p. Antalom odpadnutie Artura z Tímu.
+
+
+Obsah:
+- Matúš stručne opísal riešenie odporúčania hudby na základe emócie z Kaggle.
+- Vladyslav opísal schopnosti DeepFace knižnice.
+  - Vie rozpoznať osoby v obraze a určiť ich emóciu, pohlavie, vek, rasu...
+  - Počas praktickej ukážky všetkých v miestnosti rozpoznali iba mtcnn a retinaface (pomalý) algoritmy.
+  - Prebehla diskusia o vplyvu šumu a nevyhovujúcich podmienok na detekciu / rozpoznávanie, aj o rýchlosti detekcie / rozpoznania.
+- Tím informoval Jozefa, že zo strany univerzity nebude problém pokračovať v tímovom projekte aj v dvojici v letnom semestri.
+
+
+Úlohy:
+- Podľa plánu sú aktuálne tieto úlohy (nesplnené + nové):
+  - Vyskúšať a vybrať riešenie na analýzu hudby.
+  - Navrhnúť do dokumentu architektúru projektu na základe vybraných nástrojov.
+  - Navrhnúť spôsob odporúčania piesní.
+
+
+Spísal: Matúš Mruzek, 29.11.2024
