@@ -1,0 +1,22 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Úlohy z minulého týždňa:
+- [ ] Vyskúšať a vybrať riešenie na analýzu hudby.
+- [ ] Navrhnúť spôsob odporúčania piesní.
+- [ ] Navrhnúť do dokumentu architektúru projektu na základe vybraných nástrojov.
+
+
+Obsah:
+- Matúš našiel na analýzu hudby predtrénované modely v knižnici Essentia. Tie ešte neodskúšal.
+  - V krátkosti bola spomenutá aj Marsyas knižnica ako potenciálne menej náročná a menej presná alternatíva.
+- Matúš odprezentoval tzv. Russell's Circumplex Model, ktorý vyjadruje emóciu v 2-rozmernom priestore ako vzťah "valence" ("príjemnosť" emócie) a arousal (vzrušenia).
+- Prebrali sa možnosti stretnutia po vianočných sviatkoch. Predbežne vyhovuje štvrtok 9. januára. Oficiálne sa stretnutie dohodne v novom roku.
+
+
+Úlohy:
+- Spísať časť dokumentu za zimný semester.
+
+
+Spísal: Matúš Mruzek, 7.1.2025
