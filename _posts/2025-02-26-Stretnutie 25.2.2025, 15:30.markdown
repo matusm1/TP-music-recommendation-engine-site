@@ -1,0 +1,21 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Obsah:
+- Zúčastnení prediskutovali navrhnuté zoznamy hardvéru. Dohodli sa na nákupe celej sady namiesto samostatných dielov. Z 2 možností v emaili bola vybratá sada s bielo-červenou RPi (Raspberry Pi) krabičkou.
+- Zvýšená pozornosť sa venovala kamere. Padlo viacero pripomienok:
+  - Matúš pripomienkoval, že vyviesť kábel cez RPi krabičku nemusí byť jednoduché.
+  - Jozef navrhol vystrihnutie diery do krabice, ak to bude potrebné.
+  - Vladyslav navrhol použitie inej kamery, ktorá by sa pripájala cez USB porty.
+  - Jozef pripomienkoval, že nie je vyriešené pripevnenie kamery. Najviac sa mu pozdáva kamera so stojanom.
+  - Matúš pripomienkoval, že v prípade použitia neoficiálnej kamery sa nemusia dať použiť oficiálne RPi knižnice určené na prácu s kamerou.
+- V prípade nedostatku miesta na SD karte sa dajú využiť USB porty pre USB kľúč alebo externý disk alebo použiť iba 30 sekundové klipy pesničiek (to by fungovalo iba ako demonštrácia).
+- Diskutovalo sa aj o spôsobe vývoja na RPi. Spomenuli sa možnosti pripojenia displeja, nakonfigurovania SSH alebo vzdialenej obrazovky. Toto prebehne vo vlastnej réžii Tímu.
+
+Závery:
+- Tento týždeň Jozef nakúpi vybranú sadu RPi, kamera sa upresní až na budúci týždeň (resp. po doručení sady).
+- Ďalšie stretnutie na budúci týždeň nemusí byť, ak kvôli doručovaniu RPi nebude mať Tím čo preberať.
+
+
+Spísal: Matúš Mruzek, 26.2.2025

@@ -7,7 +7,6 @@ permalink: /o-projekte/
 Vytvárame odporúčací systém hudby s využitím strojového učenia, ktorý prispôsobuje odporúčania na základe výzoru používateľa.
 
 Zloženie tímu:
-- Artur Lypodatenko
 - Matúš Mruzek
 - Vladyslav Tsimbota
 
