@@ -1,0 +1,20 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Obsah:
+- Vladyslav opísal zloženie hardvéru a pripájanie k Raspberry Pi (RPi) pomocou služby Connect Pi.
+- Vladyslav tiež spomenul problémy pri inštalácií knižnice Deepface.
+- Vladyslav spustil demo skript pre Deepface. Analýza trvala relatívne dlho (asi 15 sekúnd). Síce sa jednalo iba o demo funkcií, padli návrhy, ako možno analýzu urýchliť:
+  - Vladyslav navrhol použiť Google Collab, ak bude RPi príliš pomalé.
+  - Jozef navrhol skontrolovať možnosť prepnutia na výkonnejší "backend" knižnice (napr. použitie GPU / Vulkan API).
+- Diskutovalo sa aj o potrebe chladenia. Reálny dopad na výkon (resp. rýchlosť analýzy) zatiaľ nie je známy, ale zistí sa pri ďalšom testovaní.
+- Matúš v krátkosti opísal možnosti použitia smartfónu ako kamery.
+- Kamera bude objednaná inokedy, Tím sa zatiaľ môže venovať iným úlohám.
+
+Úlohy:
+- Tím vyladí analýzu obrazu cez Deepface v snahe dosiahnuť uspokojivý čas analýzy.
+- Tím zostaví katalóg piesní použiteľný na párovanie k nasnímaným emóciám.
+
+
+Spísal: Matúš Mruzek, 11.3.2025
