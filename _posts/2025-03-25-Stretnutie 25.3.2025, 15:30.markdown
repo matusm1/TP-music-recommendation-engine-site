@@ -1,0 +1,23 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Úlohy z minulého týždňa:
+- [ ] Tím vyladí analýzu obrazu cez Deepface v snahe dosiahnuť uspokojivý čas analýzy.
+- [ ] Tím zostaví katalóg piesní použiteľný na párovanie k nasnímaným emóciám.
+
+Obsah:
+- Prediskutoval sa výber kamery. Nakoniec bola vybratá webkamera Eternico Webcam ET201 Full HD z Alzy.
+- Matúš ohľadom práce na katalógu piesní má zatiaľ len stiahnuté piesne.
+  - Navrhol, aby katalóg bol uložený ako SQLite databáza.
+- Vladyslav sa ešte nepokúšal urýchliť Deepface.
+  - Bude si musieť zohnať dateset tvárí na testovanie. Po doručení kamery sa môže testovanie robiť na reálnych fotkách.
+  - Navrhol, aby sa program držal pripravený na pozadí a nespúšťal sa pre každú analýzu odznovu. Týmto môže byť ušetrený čas inicializácie.
+
+Úlohy:
+- Vladyslav zistí, ako urýchlyť analýzu cez Deepface.
+- Matúš zostaví katalóg piesní a zvolí preň spôsob ukldania.
+- Jozef objedná dohodnutú kameru (<https://www.alza.sk/eternico-webcam-et201-full-hd-cierna-d6900130.htm>).
+
+
+Spísal: Matúš Mruzek, 25.3.2025
