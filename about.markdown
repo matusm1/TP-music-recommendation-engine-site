@@ -16,7 +16,7 @@ Zloženie tímu:
 
 ## Harmonogram
 
-#### Týžden 9 (15.04)
+#### 15.04. -- Týžden 9
 Vlado:
 - Skúšanie kamery
 - Server-like skript
@@ -27,25 +27,25 @@ Matúš:
 - Výber pesničiek na základe "vzdialenosti" od emócie
 
 
-#### Týžden 10 (22.04)
+#### 22.04. -- Týžden 10
 Vlado:
 - Automatizácia ukladania a spracovania obrázkov z kamery
-- Analýza výsledkov na datasete FACES a obrázkov z kamery
+- Analýza výsledkov na datasete FACES a obrázkoch z kamery
 
 Matúš:
 - Automatizácia sťahovania pesničiek (MP3 súborov)
-- Essencia, napísanie skriptu / Spotify API valence
+- Essentia, napísanie skriptu / Spotify API valence
 
 
-#### Týžden 11 (29.04)
+#### 29.04. -- Týžden 11
 - Spojenie častí (detekcie emócie a odporučenie playlistu)
 
 
-#### Týžden 12 (06.05)
+#### 06.05. -- Týžden 12
 - Zlepšovanie riešenia. Možné úpravy:
   - odporúčanie podľa veku,
   - zohľadnenie ďalších Spotify parametrov ako popularita atď.
 
 
-#### Týžden 13-14:
+#### Týžden 13-14
 - Dokončenie riešenia, dokumentácia.

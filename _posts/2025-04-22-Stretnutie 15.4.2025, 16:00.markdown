@@ -1,0 +1,31 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+Stretnutie bolo online.
+
+
+Úlohy z minulého týždňa:
+- [X] Tím si pripraví plán práce na nasledujúce týždne.
+- [X] Matúš naprogramuje vytváranie playlistu z katalógu.
+
+Obsah:
+- Tím odprezentoval Jozefovi svoj plán práce do 13./14. týždňa semestra.
+  - Odprezentovanie ukážky celého systému v prvej podobe by mohlo nastať v 11. týždni.
+  - V 12. týždni je naplánované vylepšovanie, je to myslené aj ako časová rezerva, ak sa nebude stíhať.
+- Matúš naprogramoval výber pesničiek z katalógu podľa valence.
+  - Vplyv valence na "pozitivitu" emócie piesne podľa neho cítiť len trochu.
+  - Piesne s podobným valence môžu znieť veľmi odlišne (napr. sú to úplne iné žánre). Bude potrebné zohľadniť ďalšie parametre.
+- Vlado pracoval na prepojení kamery so systémom.
+  - Vie fotiť a ukladať fotky.
+  - V pláne mu ostáva automaticky detegovať a analyzovať vytvorenú fotku, zatiaľ sa musí manuálne zadať.
+
+Úlohy:
+- Matúš zverejní plán práce na stránke a pošle Jozefovi odkaz.
+- Podľa plánu práce:
+  - Vlado zautomatizuje ukladanie a spracovanie obrázkov z kamery.
+  - Vlado analyzuje výsledky detekcie emócie na FACES datasete a obrázkoch z kamery.
+  - Matúš zautomatizuje sťahovanie pesničiek na použitie pre väčší dataset.
+  - Matúš naprogramuje vytvorenie katalógu z lokálnych piesní pomocou Essentia knižnice alebo s použitím Spotify API.
+
+
+Spísal: Matúš Mruzek, 22.4.2025
