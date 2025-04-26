@@ -1,0 +1,39 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+Stretnutie bolo online.
+
+
+Úlohy z minulého týždňa:
+- [X] Matúš zverejní plán práce na stránke a pošle Jozefovi odkaz.
+- [X] Vlado analyzuje výsledky detekcie emócie na FACES datasete a obrázkoch z kamery.
+- [X] Vlado zautomatizuje spracovanie obrázkov z kamery.
+- [ ] Vlado zautomatizuje ukladanie obrázkov z kamery.
+- [ ] Matúš naprogramuje vytvorenie katalógu z lokálnych piesní pomocou Essentia knižnice alebo s použitím Spotify API.
+- [ ] Matúš zautomatizuje sťahovanie pesničiek na použitie pre väčší dataset.
+
+
+Obsah:
+- Matúš:
+  - Dokončil hľadanie piesní podľa vzdialeností z minulého týždňa.
+  - Spravil skript, ktorý vie prehrať pieseň z katalógu v systémovom prehrávači.
+- Vlado:
+  - Má skript pre kameru, ktorý vytvorí obrázok z 5 snímok (kvôli ostrosti).
+  - "Serverový skript" sleduje existenciu súboru (fotky), tú spracuje.
+  - Spracovanie fotky trvá okolo 1 sekundy, môže byť nepresné.
+- Vlado dal Jozefovi prístup do repozitára projektu.
+- Budúce stretnutie bude osobne v štandardnom čase -- utorok 29.04. o 15:30.
+- Osobné stretnutie môže byť aj počas sviatkov, Jozef je zvyčajne počas nich dostupný.
+
+
+Úlohy:
+- Matúš pridá odkaz na repozitár projektu na stránku.
+- Z minulého týždňa:
+  - Matúš naprogramuje vytvorenie katalógu z lokálnych piesní pomocou Essentia knižnice alebo s použitím Spotify API.
+  - Matúš zautomatizuje sťahovanie pesničiek na použitie pre väčší dataset.
+  - Vlado zautomatizuje ukladanie obrázkov z kamery.
+- Podľa plánu:
+  - Tím spojí obe časti projektu do jedného funkčného celku, ktorý bude možné odprezentovať.
+
+
+Spísal: Matúš Mruzek, 26.4.2025
