@@ -1,0 +1,20 @@
+Zúčastnení:
+Jozef Parák, Matúš Mruzek, Vladyslav Tsimbota
+
+
+Úlohy z minulého týždňa:
+- [ ] Tím dokončí projekt projekt a odprezentuje ho.
+
+
+Obsah:
+- Začiatok stretnutia bol venovaný pripraveniu Raspberry Pi.
+- Vlado odprezentoval projekt od spustenia, cez automatické zachytávanie tváre, po uloženie výsledkov do súboru.
+- Matúš, separátne od zvyšku projektu, ukázal spúšťanie pesničiek v primitívnej a sofistikovanejšej podobe. Sofistikovanú podobu ešte nemal implementovanú.
+- Vlado prisľúbil za Tím poslať v pondelok nahrávku, na ktorej bude projekt odprezentovaný.
+
+
+Úlohy:
+- Tím do pondelka pošle Jozefovi prezentáciu projektu.
+
+
+Spísal: Matúš Mruzek, 19.5.2025
